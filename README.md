@@ -4,7 +4,7 @@ FastAPI Sqlalchemy
 
 
 # The first thing to do is to clone the repository:
-git @github.com:rehsan-akturk/FastAPI-Django.git
+git@github.com:rehsan-akturk/API-Endpoint.git
 
 # Create you virtualenv and install the packages
 pip install -r requirements.txt
